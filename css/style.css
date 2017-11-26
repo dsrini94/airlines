@@ -1,0 +1,31 @@
+.loginPageSection1{
+    background-color: #F22731;
+}
+
+.newUserSpan{
+  color:white;
+  display: inline-block !important;
+  border-bottom: 1px solid white;
+}
+
+.companyName{
+  font-family: 'Kaushan Script', cursive;
+  color:white;
+  font-size: 25px;
+}
+
+.registerPage{
+  background-color: #F22731;
+}
+
+.appbar{
+   background-color: #F22731 !important;
+}
+.sidebar{
+  height: 100vh;
+}
+.subHeaders{
+  color:white;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 20px;
+}
